@@ -1,4 +1,5 @@
 algorithms
 ==========
 
-Some algorithms implemented in JavaScript
+Just my evening/midnight playground.
+Some popular algorithms implemented in JavaScript
