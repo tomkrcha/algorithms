@@ -1,0 +1,15 @@
+<html>
+<head>
+	<title></title>
+	<script src="floodfill.js"></script>
+	<script>
+		function init(){
+			cnvs = document.getElementById("cnvs").getContext("2d");
+			render();
+		}
+	</script>
+</head>
+<body style="margin:0 0 0 0" onload="init()" onclick="onClickToFill(event)">
+	<canvas id="cnvs" width="800" height="600"></canvas>
+</body>
+</html>
